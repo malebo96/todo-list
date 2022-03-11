@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+  
+  }
+  body{
+ background-color:#fafafa;
+  }
+  .firstinGrid{
+ 
+  border-radius:0px;
+
+  
+  }
+  .firstpaper{
+   
+
+    border-radius:0px;
+  }
+ 
+
+  .paperone{
+    background-image:url("https://images.unsplash.com/photo-1504384764586-bb4cdc1707b0?crop=entropy&cs=srgb&fm=jpg&ixid=Mnw3MjAxN3wwfDF8c2VhcmNofDM3fHx0ZWNobm9sb2d5fGVufDB8fHx8MTYyNjYwNzgyNA&ixlib=rb-1.2.1&q=85&q=85&fmt=jpg&crop=entropy&cs=tinysrgb&w=450");}
+
+  
